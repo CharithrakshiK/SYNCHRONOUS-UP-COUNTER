@@ -1,4 +1,6 @@
-### SYNCHRONOUS-UP-COUNTER
+# EXP:11: SYNCHRONOUS UP COUNTER
+# NAME: CHARITHRAKSHI K
+# REG.NO: 24900651
 
 **AIM:**
 
@@ -28,19 +30,28 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **Procedure**
 
-/* write all the steps invloved */
+
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. 
+![WhatsApp Image 2024-12-23 at 11 44 21_73ade680](https://github.com/user-attachments/assets/60b6631c-a601-4e7b-8674-195cb415e6fa)
 
-Developed by: RegisterNumber:
-*/
 
 **RTL LOGIC UP COUNTER**
 
+![{670FCE3B-DCBB-4FE1-B007-5FDB43FF3875}](https://github.com/user-attachments/assets/b6919aa6-b437-42eb-82dc-4f6bc2fdaf99)
+
+
 **TIMING DIAGRAM FOR IP COUNTER**
+
+![WhatsApp Image 2024-12-23 at 11 44 22_e4f12d0d](https://github.com/user-attachments/assets/f6040540-35a3-4117-af47-6c0d735a7d42)
+
 
 **TRUTH TABLE**
 
+![WhatsApp Image 2024-12-23 at 11 36 47_d1a9fda5](https://github.com/user-attachments/assets/3d058ead-0617-40e6-b7de-61ca9ab47bd3)
+
+
 **RESULTS**
+
+THUS THE SYNCHRONOUS UP COUNTER IS STUDIED AND EXECUTED SUCCESSFULLY 
